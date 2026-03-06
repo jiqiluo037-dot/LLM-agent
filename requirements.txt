@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+wordcloud
+faiss-cpu
+sentence-transformers
+plotly
+openai
